@@ -1,0 +1,8 @@
+Code by Pierre-Yves Rollo (pyrollo)
+Contributors:
+
+Textures by Pierre-Yves Rollo (pyrollo)
+Except:
+late_demo_rune_o.png and late_demo_rune_f.png derivated from default stone texture from minetest_game.
+late_demo_potion.png by Wuzzy
+late_demo_tchernostick.png, I presume, by sdzen (Elise Staudter) (CC BY-SA 3.0). Taken from technic mod.
