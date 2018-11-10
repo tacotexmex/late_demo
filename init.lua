@@ -68,7 +68,7 @@ end
 -- Basic impact items
 minetest.register_tool("late_demo:invisibility_ring", {
 	description = "Invisibility ring",
-	inventory_image = "mythitem_ring_simple.png",
+	inventory_image = "late_demo_ring_simple.png",
 	groups = { armor_finger=1 },
 	texture = "late_demo_transparent",
 	preview = "late_demo_ring_armor_preview",
